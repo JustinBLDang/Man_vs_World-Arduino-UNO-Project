@@ -1,4 +1,4 @@
-# Man-vs-Wan
+# Man-vs-World
 Jump over obstacles and pursue the highest score.
 In this project I:
 1) Learned about Concurrent State Machines, clock cycles, PWM
