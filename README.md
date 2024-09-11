@@ -3,8 +3,7 @@ Jump over obstacles and pursue the highest score.
 In this project I:
 1) Learned about Concurrent State Machines, clock cycles, PWM
 2) Integrating hardware and software.
-3) Practice learning and understanding new code/libraries
-4) Practiced handling low-level details(Bits, memory, setting registers in hardware to set certain behaviors)
+3) Practiced handling low-level details(Bits, memory, setting registers in hardware to set certain behaviors)
 
 Here is a video demo:
 
