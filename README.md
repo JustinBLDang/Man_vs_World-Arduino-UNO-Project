@@ -1,9 +1,10 @@
 # Man-vs-World
 Jump over obstacles and pursue the highest score.
-In this project I:
-1) Used Concurrent Sync SM, clock cycles, PWM
-2) Integrating hardware and software.
-3) Practiced handling low-level details(Bits, memory, setting registers in hardware to set certain behaviors)
+Use C++ to create firmware that uses Concurrent Sync SM, clock cycles, PWM, and EEROM to create game logic.
+Hardware:
+1) LCD(16 x 2)
+2) IR remote
+3) Custom characters
 
 Here is a video demo:
 
