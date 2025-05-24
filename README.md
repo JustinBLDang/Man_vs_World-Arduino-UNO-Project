@@ -2,6 +2,7 @@
 Jump over obstacles and pursue the highest score. Automatically saves the highest score between sessions.
 
 Use C++ to create firmware that uses Concurrent Sync SM, clock cycles, PWM, and EEROM to create game logic.
+
 Hardware:
 1) LCD(16 x 2)
 2) IR remote
